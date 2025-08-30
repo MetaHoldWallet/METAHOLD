@@ -1,6 +1,8 @@
 # METAHOLD
 The MetaHood Wallet is a non-custodial, multi-chain crypto wallet built for secure storage, fast transactions, and easy access to Web3 applications. It serves as the gateway to the MetaHood ecosystem, empowering users to manage digital assets while also engaging in DeFi, NFTs, and governance.
-Key Features
+
+
+                                                      Key Features
 
 Multi-Chain Support
 
@@ -10,7 +12,7 @@ Manage tokens, stablecoins, and NFTs in a single wallet.
 
 
 
-Security & Privacy
+                                                       Security & Privacy
 
 Non-custodial: users own their private keys.
 
@@ -20,7 +22,7 @@ Recovery phrase backup for full ownership.
 
 
 
-In-App Utility
+                                                          In-App Utility
 
 Swap and bridge tokens directly inside the wallet.
 
@@ -30,7 +32,7 @@ MetaHood Token (MTW) integration: pay fees, stake, vote, and earn rewards.
 
 
 
-User Experience
+                                                           User Experience
 
 Clean and intuitive design for both beginners and advanced traders.
 
@@ -40,7 +42,7 @@ Quick-access shortcuts for transactions and swaps.
 
 
 
-Web3 & dApp Integration
+                                                            Web3 & dApp Integration
 
 Connect seamlessly to DeFi protocols, NFT marketplaces, and GameFi apps.
 
@@ -52,6 +54,6 @@ Participate in MetaHood governance and community events through MTW.
 
 ---
 
-Vision
+                                                                Vision
 
 MetaHood Wallet is more than just storage — it is the heart of the MetaHood ecosystem. With MTW as its utility token, the wallet becomes a powerful tool for finance, governance, and digital ownership, making Web3 adoption simple, safe, and rewarding.
