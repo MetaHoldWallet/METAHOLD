@@ -106,5 +106,5 @@ Liquidity design:
 
 ### Clone Repo
 ```bash
-git clone https://github.com/yourusername/metahold-wallet.git
-cd metahold-wallet
+git clone https://github.com/metaholdwallet.git
+cd metaholdwallet
