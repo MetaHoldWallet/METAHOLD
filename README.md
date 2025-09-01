@@ -1,6 +1,6 @@
 # 🛡️ MetaHold Wallet
 
-![MetaHold Wallet Logo]https://github.com/MetaHoldWallet/Token-Assets/blob/main/fe423404-8b48-459b-8b66-bd31ff589e9d.jpg
+![MetaHold Wallet Logo]https:https://github.com/MetaHoldWallet/Token-Assets-logo/blob/cec2bbea10c24bfa401e71b4c92251651db26d7e/MHW-Logo.jpg
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 ![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)
