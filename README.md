@@ -15,13 +15,12 @@ Document Version: 1.1
 Date: September 2, 2025
 
 ## 📖 Table of Contents
-- [1. Introduction & Executive Summary](#1-Introduction & Executive Summary)
-- [2. Features](#2-Features)
-- [3. MHW Tokenomics](#3-MHW Tokenomics)
-- [4. Roadmap](#4-Roadmap)
-- [5. Roadmap](#5-Roadmap)
-- [6. Legal & Compliance](#6-Legal & Compliance)
-
+- [1. Introduction & Executive Summary](#10-introduction--executive-summary)
+- [2. Features](#2-features)
+- [3. MHW Tokenomics](#30-mhw-tokenomics)
+- [4. Roadmap](#40-roadmap)
+- [5. Team & Security](#50-roadmap)
+- [6. Legal & Compliance](#60-legal--compliance)
 
 ---
 
