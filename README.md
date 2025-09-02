@@ -164,6 +164,6 @@ Website: www.metaholdwallet.io (Fictional)
 
 Telegram: t.me/metahold (Fictional)
 
-Twitter: @MetaHoldWallet (Fictional)
+Twitter: https://x.com/MetaholdWallet?t=XwQueOw742e7WtU0lXyEDg&s=09 (Fictional)
 
 End of White Paper
