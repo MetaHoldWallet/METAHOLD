@@ -162,8 +162,9 @@ This white paper is for informational purposes only. The MHW token is a utility 
 Contact & Community
 Website: www.metahold.io (Fictional)
 
-Telegram: t.me/metahold (Fictional)
+Telegram: t.me/MetaHoldwallet (Fictional)
 
 Twitter: https://x.com/MetaholdWallet?t=XwQueOw742e7WtU0lXyEDg&s=09 (Fictional)
+Youtube channel: www.youtube.com/@MetaHoldWallet
 
 End of White Paper
