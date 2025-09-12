@@ -160,11 +160,13 @@ The Metahold team consists of experienced blockchain developers, cybersecurity e
 This white paper is for informational purposes only. The MHW token is a utility token designed for use within the Metahold ecosystem and is not intended to be a security. We will work with legal counsel to ensure full compliance with relevant regulations in all target jurisdictions. Users should conduct their own research and consult with a financial advisor before participating in the presale.
 
 Contact & Community
+
 Website: www.metahold.io (Fictional)
 
 Telegram: https://t.me/MetaHoldwallet  (Fictional)
 
 Twitter: https://x.com/MetaholdWallet?t=XwQueOw742e7WtU0lXyEDg&s=09 (Fictional)
+
 Youtube channel: www.youtube.com/@MetaHoldWallet
 
 End of White Paper
