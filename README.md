@@ -61,6 +61,7 @@ Total Supply: 1,500,000,000 MHW
 Blockchain: Binance Smart Chain (BSC)
 
 Token Standard: BEP-20
+Blockchain Explorer: https://bscscan.com/token/0xb46604486c1aeeb64c294926c4dca21d9614deb9#code
 
 2.2 Why Binance Smart Chain (BSC) and BEP-20?
 
