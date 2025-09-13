@@ -1,4 +1,4 @@
-github.com/MetaHoldWallet/Token-Assets-logo/blob/cec2bbea10c24bfa401e71b4c92251651db26d7e/MHW-Logo.jpg
+https://github.com/MetaHoldWallet/Token-Assets-logo/blob/422f3e312ea7959cc22cc80fa19fc06e5673300f/new%20logo.jpg
 # 🛡️ MetaHold Wallet
 
 ![MetaHold Wallet Logo]https://github.com/MetaHoldWallet/Token-Assets-logo/blob/cec2bbea10c24bfa401e71b4c92251651db26d7e/MHW-Logo.jpg
