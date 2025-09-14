@@ -165,7 +165,7 @@ Contact & Community
 
 Website: www.metahold.io (Fictional)
 
-Telegram: https://t.me/MetaHoldwallet  (Fictional)
+Telegram: https://t.me/MetaHoldCommunity  (Fictional)
 
 Twitter: https://x.com/MetaholdWallet (Fictional)
 
