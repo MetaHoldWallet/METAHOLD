@@ -84,7 +84,7 @@ Presale Supply (40%): 600,000,000 MHW
 
 This portion is dedicated to the public presale, providing early adopters and community members with an opportunity to acquire tokens and support the project's initial funding and liquidity.
 
-Ecosystem & Rewards (20%): 300,000,000 MHW
+Ecosystem & Rewards (15%): 225,000,000 MHW
 
 This allocation is a crucial component for the long-term health of the ecosystem. It will be used for:
 
@@ -94,15 +94,15 @@ Airdrops and Community Initiatives: Rewarding early users, promoting adoption, a
 
 Partnership and Marketing: Funding strategic collaborations and marketing campaigns to expand the Metahold ecosystem.
 
-Liquidity (15%): 225,000,000 MHW
+Liquidity (20%): 300,000,000 MHW
 
 Dedicated to providing initial liquidity on decentralized exchanges (DEXs) such as PancakeSwap. A significant portion of the presale funds will be paired with this allocation to ensure a stable and robust trading environment from day one.
 
-Development & Operations (15%): 225,000,000 MHW
+Development & Operations (14%): 210,000,000 MHW
 
 This fund is reserved for future product development, research, and general operational expenses. This ensures the team has the necessary resources to build and maintain the Metahold wallet over the coming years. A strict vesting schedule will be applied to this portion to prevent a large supply from being released at once.
 
-Team & Advisors (10%): 150,000,000 MHW
+Team & Advisors (11%): 165,000,000 MHW
 
 This allocation is for the founding team and advisors. All team tokens will be subject to a vesting schedule to align their incentives with the long-term success of the project. A typical vesting schedule would include a 6-12 month cliff period, followed by a linear release over 24-36 months.
 
